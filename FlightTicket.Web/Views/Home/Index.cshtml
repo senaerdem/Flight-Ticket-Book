@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model TripSearchModel
+
+<div class="home-bg">
+    <div class="row">
+        <div class="col-md-8">
+            <h1 class="display-3 mt-5 mb-3">Ucuza uçak bileti bulun</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <h6 class="display-6 fs-4">Bir sonraki seyahatinizi kolayca karşılaştırın ve rezervasyon yapın</h6>
+        </div>
+    </div>
+
+    <form asp-controller="Home" asp-action="Index" method="post">
+        <div class="row">
+            <div class="col-md-3 p-0">
+                <div class="input-group mt-5">
+                    <label class="input-group-text" for="inputGroupSelect01">KALKIŞ NOKTASI</label>
+                    
+                    <select asp-for="Origin" class="form-select" id="inputGroupSelect01">
+                        <option selected disabled hidden>Nereden..</option>
+                        @foreach (var startingPoint in Model.StartingPoints)
+                        {
+                            <option value=@startingPoint>@startingPoint</option>
+                        }
+                    </select>
+                </div>
+                <strong><span asp-validation-for="Origin" class="text-danger ms-1"></span></strong>
+            </div>
+
+            <div class="col-md-3 ps-3 pe-0">
+                <div class="input-group mt-5">
+                    <label class="input-group-text" for="inputGroupSelect02">VARIŞ NOKTASI</label>
+                    <select asp-for="Destination" class="form-select" id="inputGroupSelect02">
+                        <option selected disabled hidden>Nereye..</option>
+                        @foreach (var destination in Model.Destinations)
+                        {
+                            <option value=@destination>@destination</option>
+                        }
+                    </select>
+                </div>
+                <strong><span asp-validation-for="Destination" class="text-danger ms-1"></span></strong>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3 p-0">
+                <div class="input-group mt-5">
+                    <span class="input-group-text" id="basic-addon1">TARİH</span>
+                    <input type="date" asp-for="Date" class="form-control" aria-describedby="basic-addon1">
+                </div>
+                <strong><span asp-validation-for="Date" class="text-danger ms-1"></span></strong>
+            </div>
+
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-sm btn-outline-secondary mt-5 fs-5">Ara</button>
+            </div>
+        </div>
+
+
+
+    </form>
+</div>
