@@ -1,0 +1,48 @@
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.deps.json
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfoInputs.cache
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfo.cs
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.sourcelink.json
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\refint\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\ref\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.deps.json
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfoInputs.cache
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfo.cs
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.sourcelink.json
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\refint\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\ref\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.deps.json
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfoInputs.cache
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfo.cs
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.sourcelink.json
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\refint\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Entity\obj\Debug\net6.0\ref\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.deps.json
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\bin\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfoInputs.cache
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.AssemblyInfo.cs
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.sourcelink.json
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\refint\FlightTicket.Entity.dll
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\FlightTicket.Entity.pdb
+C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Entity\obj\Debug\net6.0\ref\FlightTicket.Entity.dll
