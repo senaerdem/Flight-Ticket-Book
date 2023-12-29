@@ -1,0 +1,111 @@
+﻿@model DisplayTicketModel
+
+<div class="display-6 text-primary ms-2 text-center">
+    @_localization.Getkey("Flight Ticket").Value
+</div>
+<hr>
+<div class="card m-3">
+  <div class="row g-0">
+    <div class="offset-1 col-5">
+      <div class="card-body">
+                <h5 class="card-title"><strong>@_localization.Getkey("Trip Details").Value</strong></h5>
+        <div class="row">
+             <div class="col-4 border">
+                <p class="card-text"><Strong>Pnr No</Strong></p>
+            </div>
+            <div class="col-7 border">
+                <p class="card-text">@Model.Tickets.First().PnrNo</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Flight").Value</Strong></p>
+            </div>
+            <div class="col-7 border">
+                        <p class="card-text">@Model.Tickets.First().Trip.MidLine.Line.StartingPoint - @Model.Tickets[0].Trip.MidLine.Line.Destination</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Date").Value</Strong></p>
+            </div>
+            <div class="col-7 border">
+                <p class="card-text">@Model.Tickets.First().Trip.ScheduleDate </p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Origin").Value</Strong></p>
+            </div>
+            <div class="col-7 border">
+                        <p class="card-text">@Model.Tickets.First().Trip.MidLine.StartingPoint , @Model.Tickets.First().Trip.DepartureTime</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Destination").Value</Strong></p>
+            </div>
+            <div class="col-7 border">
+                <p class="card-text">@Model.Tickets.Last().Trip.MidLine.Destination , @Model.Tickets.Last().Trip.ArrivalTime</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Seat No").Value</Strong></p>
+            </div>
+            <div class="col-7 border">
+                        <p class="card-text">@Model.Tickets.Last().SeatNo</p>
+            </div>
+        </div>
+      </div>
+      </div>
+
+    <div class="col-5">
+      <div class="card-body">
+                <h5 class="card-title"><strong>@_localization.Getkey("Customer Details").Value</strong></h5>
+        <div class="row">
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Customer Id").Value</Strong></p>
+            </div>
+            <div class="col-8 border">
+                <p class="card-text">@Model.Customer.Id</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("First Name").Value</Strong></p>
+            </div>
+            <div class="col-8 border">
+                <p class="card-text">@Model.Customer.FName</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Last Name").Value</Strong></p>
+            </div>
+            <div class="col-8 border">
+                <p class="card-text">@Model.Customer.LName</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Phone").Value</Strong></p>
+            </div>
+            <div class="col-8 border">
+                <p class="card-text">@Model.Customer.Contact</p>
+            </div>
+
+            <div class="col-4 border">
+                        <p class="card-text"><Strong>@_localization.Getkey("Email").Value</Strong></p>
+            </div>
+            <div class="col-8 border">
+                <p class="card-text">@Model.Customer.Email</p>
+            </div>
+
+           
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row me-4">
+    <div class="col text-end">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">@_localization.Getkey("Return Home Page").Value</a>
+        @if (User.IsInRole("Customer"))
+        {
+            <a asp-controller="FlightTicket" asp-action="DisplayUserTickets" class="btn btn-secondary">@_localization.Getkey("User's Tickets").Value</a>
+        }
+    </div>
+</div>

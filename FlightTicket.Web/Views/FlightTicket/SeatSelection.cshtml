@@ -1,0 +1,98 @@
+﻿@model SeatSelectionModel
+
+@section FontAwesomeCDN{
+    @await Html.PartialAsync("_FontAwesomeCDNPartial")
+}
+
+<div class="display-6 text-primary ms-2 text-center">
+    @_localization.Getkey("Seat Selection").Value
+</div>
+<hr>
+
+<div class="row">
+    <div class="col-7" >
+        <ul class="list-group">
+        <li class="list-group-item active"><strong>KOLTUK SEÇ</strong></li>
+        <li class="list-group-item pb-4"> <div class="row gy-5"> 
+            <div class="offset-1 col-2 text-center"><img src="~/images/steeringWheel.png"/></div><div class="col-9"></div>
+                        @for (var i = 1; i <= @Model.Trips[0].TripDetail.Flight.Capacity; i++)
+                    {   
+            string bgColor = "bg-light";
+            @if (i==1 || i % 4 == 1)
+            {
+            <div class='col-1 d-flex justify-content-center align-items-center'></div>
+            }
+            @if (i==3 || i % 4 == 3)
+            {
+            <div class='col-2 d-flex justify-content-center align-items-center'></div>
+            }
+               
+                     foreach (var ticket in Model.Tickets)
+                     {
+                         if (ticket.SeatNo == i)
+                         {
+                         bgColor = "bg-secondary";
+                         break;
+                         }
+                     }
+            <button type="button" onclick='updateSelectedSeat(@i)' id="selectedSeat.@i" class='flightSeat col-2 d-flex justify-content-center align-items-center border @bgColor mt-2 p-4 fs-3' @(bgColor == "bg-secondary" ? "disabled" : "") >
+                            @i 
+                </button>
+             @if (i % 4 == 0)
+            {
+            <div class='col-1 d-flex justify-content-center align-items-center'></div>
+            }
+        }
+        </div></li>
+        </ul>
+   </div>
+    <div class="offset-1 col-4" >
+   <form asp-controller="FlightTicket" asp-action="SeatSelection" method="post">
+      <input type="hidden" name="TripId" value=@Model.TripId>
+      <input type="hidden" name="TotalPrice" value=@Model.TotalPrice>
+        <ul class="list-group">
+                <li class="list-group-item active"><strong>@_localization.Getkey("TRIP DETAILS").Value</strong></li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Date of Journey :").Value</strong> @Model.Trips[0].ScheduleDate</li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Source :").Value</strong> @Model.Trips[0].MidLine.StartingPoint</li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Destination :").Value</strong> @Model.Trips[Model.Trips.Count - 1].MidLine.Destination</li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Departure Time :").Value</strong> @Model.Trips[0].DepartureTime</li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Arrival Time :").Value</strong> @Model.Trips[Model.Trips.Count - 1].ArrivalTime</li>
+                <li class="list-group-item">
+                    <strong>@_localization.Getkey("Selection Seat :").Value</strong>
+                    <input class="nothing" type="text" asp-for="SelectedSeatNo" id="selectedSeat" placeholder="@_localization.Getkey("Please make a selection").Value" value="" readonly />
+                 </li>
+                <li class="list-group-item"><strong>@_localization.Getkey("Please make a selection").Value</strong> @Model.TotalPrice ₺</li>
+        </ul>
+        <span asp-validation-for="SelectedSeatNo" class="text-danger ms-2"></span>
+            <div class="text-end mt-3"><button class="btn btn-primary" type="submit">@_localization.Getkey("Select Seat").Value</button></div>
+    </form>
+    </div>
+</div>
+
+
+             <script>
+                 const updateSelectedSeat = i => {
+                     const selectedSeatInfo = document.getElementById("selectedSeat");
+                     
+                     const selectedSeatId = "selectedSeat." + i;
+                     const selectedSeat = document.getElementById(selectedSeatId);
+                     
+                     if(selectedSeatInfo.value != "" && selectedSeatInfo.value != i){
+                         const previousSelectionId = "selectedSeat." + selectedSeatInfo.value;
+                         const previouslySelectedSeat = document.getElementById(previousSelectionId);
+
+                         selectedSeatInfo.value = "" ;
+                         previouslySelectedSeat.classList.toggle("bg-light");
+                         previouslySelectedSeat.classList.toggle("bg-success");
+                         previouslySelectedSeat.classList.toggle("text-white");
+                     }
+   
+                     selectedSeatInfo.value = selectedSeatInfo.value == i ? "" : i ;
+
+                     selectedSeat.classList.toggle("bg-light");
+                     selectedSeat.classList.toggle("bg-success");
+                     selectedSeat.classList.toggle("text-white");
+
+                 }
+
+             </script>
