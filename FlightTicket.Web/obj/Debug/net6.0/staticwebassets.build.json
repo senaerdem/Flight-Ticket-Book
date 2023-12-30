@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QNNWP3Hxo+YSgCDIDkyVdoYteLNXVcWz9l4jPIP0698=",
+  "Hash": "iPeHklnNm5jQ1f4YhsSd9vFzCx8Yql3ANzEqKvdVh5g=",
   "Source": "FlightTicket.Web",
   "BasePath": "_content/FlightTicket.Web",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\busSeat.png",
+      "Identity": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\flightSeat.png",
       "SourceId": "FlightTicket.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\",
       "BasePath": "_content/FlightTicket.Web",
-      "RelativePath": "images/busSeat.png",
+      "RelativePath": "images/flightSeat.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\busSeat.png"
+      "OriginalItemSpec": "wwwroot\\images\\flightSeat.png"
     },
     {
       "Identity": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\Home-bg.jpg",

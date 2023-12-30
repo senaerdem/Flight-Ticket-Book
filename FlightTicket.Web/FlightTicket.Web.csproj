@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Identity\BusTicket.Web\**" />
+    <Content Remove="Identity\BusTicket.Web\**" />
+    <EmbeddedResource Remove="Identity\BusTicket.Web\**" />
+    <None Remove="Identity\BusTicket.Web\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Iyzipay" Version="2.1.46" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
       <PrivateAssets>all</PrivateAssets>
@@ -18,10 +25,6 @@
   <ItemGroup>
     <ProjectReference Include="..\FlightTicket.Business\FlightTicket.Business.csproj" />
     <ProjectReference Include="..\FlightTicket.Core\FlightTicket.Core.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Identity\BusTicket.Web\obj\" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="'s Roles" xml:space="preserve">
+    <value>'s Roles</value>
+  </data>
+  <data name="Actions" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="Admin is not allowed to buy a ticket." xml:space="preserve">
+    <value>Admin is not allowed to buy a ticket.</value>
+  </data>
+  <data name="All Rights Reserved" xml:space="preserve">
+    <value>All Rights Reserved</value>
+  </data>
+  <data name="Arrival Time" xml:space="preserve">
+    <value>Arrival Time</value>
+  </data>
+  <data name="Arrival Time :" xml:space="preserve">
+    <value>Arrival Time :</value>
+  </data>
+  <data name="Change Password" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="Change Users in Role" xml:space="preserve">
+    <value>Change Users in Role</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="Contact Information" xml:space="preserve">
+    <value>Contact Information</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="Create Line" xml:space="preserve">
+    <value>Create Line</value>
+  </data>
+  <data name="Create Plane" xml:space="preserve">
+    <value>Create Plane</value>
+  </data>
+  <data name="Create Role" xml:space="preserve">
+    <value>Create Role</value>
+  </data>
+  <data name="Create Trip" xml:space="preserve">
+    <value>Create Trip</value>
+  </data>
+  <data name="Create User" xml:space="preserve">
+    <value>Create User</value>
+  </data>
+  <data name="Customer Details" xml:space="preserve">
+    <value>Customer Details</value>
+  </data>
+  <data name="Customer Id" xml:space="preserve">
+    <value>Customer Id</value>
+  </data>
+  <data name="Date of Journey :" xml:space="preserve">
+    <value>Date of Journey :</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Departure Time" xml:space="preserve">
+    <value>Departure Time</value>
+  </data>
+  <data name="Departure Time :" xml:space="preserve">
+    <value>Departure Time :</value>
+  </data>
+  <data name="Destination" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="Destination :" xml:space="preserve">
+    <value>Destination :</value>
+  </data>
+  <data name="Details" xml:space="preserve">
+    <value>Details</value>
+  </data>
+  <data name="Display Tickets" xml:space="preserve">
+    <value>Display Tickets</value>
+  </data>
+  <data name="Easily compare and book your trip with Pegasus" xml:space="preserve">
+    <value>Easily compare and book your trip with Pegasus</value>
+  </data>
+  <data name="Edit User Details" xml:space="preserve">
+    <value>Edit User Details</value>
+  </data>
+  <data name="Edit User Role" xml:space="preserve">
+    <value>Edit User Role</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="First Name" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="FirstName" xml:space="preserve">
+    <value>FirstName</value>
+  </data>
+  <data name="Flight" xml:space="preserve">
+    <value>Flight</value>
+  </data>
+  <data name="Flight List" xml:space="preserve">
+    <value>Flight List</value>
+  </data>
+  <data name="Flight Search Results" xml:space="preserve">
+    <value>Flight Search Results</value>
+  </data>
+  <data name="Flight Ticket" xml:space="preserve">
+    <value>Flight Ticket</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>From</value>
+  </data>
+  <data name="Go Back To User List" xml:space="preserve">
+    <value>Go Back To User List</value>
+  </data>
+  <data name="Hello" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>Id</value>
+  </data>
+  <data name="Id :" xml:space="preserve">
+    <value>Id :</value>
+  </data>
+  <data name="Languages" xml:space="preserve">
+    <value>Languages</value>
+  </data>
+  <data name="Last Name" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="LastName" xml:space="preserve">
+    <value>LastName</value>
+  </data>
+  <data name="Line List" xml:space="preserve">
+    <value>Line List</value>
+  </data>
+  <data name="Log In" xml:space="preserve">
+    <value>Log In</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="New Password" xml:space="preserve">
+    <value>New Password</value>
+  </data>
+  <data name="No trips found with the given information. Please provide different trip details." xml:space="preserve">
+    <value>No trips found with the given information. Please provide different trip details.</value>
+  </data>
+  <data name="Old Password" xml:space="preserve">
+    <value>Old Password</value>
+  </data>
+  <data name="Operator is not allowed to buy a ticket." xml:space="preserve">
+    <value>Operator is not allowed to buy a ticket.</value>
+  </data>
+  <data name="Origin" xml:space="preserve">
+    <value>Origin</value>
+  </data>
+  <data name="Passanger Details" xml:space="preserve">
+    <value>Passanger Details</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Phone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="Plane List" xml:space="preserve">
+    <value>Plane List</value>
+  </data>
+  <data name="Please enter passangers age" xml:space="preserve">
+    <value>Please enter passangers age</value>
+  </data>
+  <data name="Please enter passangers contact name" xml:space="preserve">
+    <value>Please enter passangers contact name</value>
+  </data>
+  <data name="Please enter passangers email" xml:space="preserve">
+    <value>Please enter passangers email</value>
+  </data>
+  <data name="Please enter passangers first name" xml:space="preserve">
+    <value>Please enter passangers first name</value>
+  </data>
+  <data name="Please enter passangers last name" xml:space="preserve">
+    <value>Please enter passangers last name</value>
+  </data>
+  <data name="Please Enter User Details" xml:space="preserve">
+    <value>Please Enter User Details</value>
+  </data>
+  <data name="Please Enter Your Valid and New Password" xml:space="preserve">
+    <value>Please Enter Your Valid and New Password</value>
+  </data>
+  <data name="Please make a selection" xml:space="preserve">
+    <value>Please make a selection</value>
+  </data>
+  <data name="Please select a gender" xml:space="preserve">
+    <value>Please select a gender</value>
+  </data>
+  <data name="Please Select Roles For User" xml:space="preserve">
+    <value>Please Select Roles For User</value>
+  </data>
+  <data name="Pnr No" xml:space="preserve">
+    <value>Pnr No</value>
+  </data>
+  <data name="Proceed To Payment" xml:space="preserve">
+    <value>Proceed To Payment</value>
+  </data>
+  <data name="Re-enter Password" xml:space="preserve">
+    <value>Re-enter Password</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="Remember Me" xml:space="preserve">
+    <value>Remember Me</value>
+  </data>
+  <data name="Remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="Return Home Page" xml:space="preserve">
+    <value>Return Home Page</value>
+  </data>
+  <data name="Role List" xml:space="preserve">
+    <value>Role List</value>
+  </data>
+  <data name="Role Name" xml:space="preserve">
+    <value>Role Name</value>
+  </data>
+  <data name="Role Name :" xml:space="preserve">
+    <value>Role Name :</value>
+  </data>
+  <data name="Roles" xml:space="preserve">
+    <value>Roles</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="Seat No" xml:space="preserve">
+    <value>Seat No</value>
+  </data>
+  <data name="Seat Selection" xml:space="preserve">
+    <value>Seat Selection</value>
+  </data>
+  <data name="Select Seat" xml:space="preserve">
+    <value>Select Seat</value>
+  </data>
+  <data name="Selection Seat :" xml:space="preserve">
+    <value>Selection Seat :</value>
+  </data>
+  <data name="Source :" xml:space="preserve">
+    <value>Source :</value>
+  </data>
+  <data name="Ticket Details" xml:space="preserve">
+    <value>Ticket Details</value>
+  </data>
+  <data name="Ticket List" xml:space="preserve">
+    <value>Ticket List</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>To</value>
+  </data>
+  <data name="To Edit User Roles, Please Update the role selection below" xml:space="preserve">
+    <value>To Edit User Roles, Please Update the role selection below</value>
+  </data>
+  <data name="To Edit User Roles, Please Update the role selection below." xml:space="preserve">
+    <value>To Edit User Roles, Please Update the role selection below.</value>
+  </data>
+  <data name="Trip Details" xml:space="preserve">
+    <value>Trip Details</value>
+  </data>
+  <data name="Trip List" xml:space="preserve">
+    <value>Trip List</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Update Flight" xml:space="preserve">
+    <value>Update Flight</value>
+  </data>
+  <data name="Update Line" xml:space="preserve">
+    <value>Update Line</value>
+  </data>
+  <data name="Update Role" xml:space="preserve">
+    <value>Update Role</value>
+  </data>
+  <data name="Update Roles" xml:space="preserve">
+    <value>Update Roles</value>
+  </data>
+  <data name="Update Trip" xml:space="preserve">
+    <value>Update Trip</value>
+  </data>
+  <data name="User List" xml:space="preserve">
+    <value>User List</value>
+  </data>
+  <data name="User's Tickets" xml:space="preserve">
+    <value>User's Tickets</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="Warning!" xml:space="preserve">
+    <value>Warning!</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+</root>

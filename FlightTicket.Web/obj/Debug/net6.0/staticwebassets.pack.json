@@ -21,8 +21,8 @@
       "PackagePath": "staticwebassets\\images\\Home-bg.png"
     },
     {
-      "Id": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\busSeat.png",
-      "PackagePath": "staticwebassets\\images\\busSeat.png"
+      "Id": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\flightSeat.png",
+      "PackagePath": "staticwebassets\\images\\flightSeat.png"
     },
     {
       "Id": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\homebg.webp",
