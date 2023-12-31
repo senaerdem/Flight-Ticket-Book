@@ -26,10 +26,9 @@ companyimg {
 }
 
 .home-bg {
-    background-image: url('../images/Home-bg.png');
+    background-image: url('../images/Home-bg.jpg');
     background-repeat: no-repeat;
-    background-size: contain 100%;
-    background-position: right;
+    background-size: cover;
     height: 60vh;
 }
 
@@ -39,8 +38,8 @@ companyimg {
     background: white;
 }
 
-.busSeat {
-    background-image: url('../images/busSeat.png');
+.flightSeat {
+    background-image: url('../images/flightSeat.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;

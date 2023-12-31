@@ -1,7 +1,7 @@
 ﻿@model RegisterModel
 
 <div class="display-6 text-primary ms-2 text-center">
-    Kayıt Ol
+    @_localization.Getkey("Register").Value
 </div>
 <hr>
 
@@ -10,7 +10,7 @@
         <div class="col-md-6">
             <div class="row mb-2">
                 <div class="col-md-3">
-                    <label class="col-form-label" asp-for="FirstName">Ad</label>
+                    <label class="col-form-label" asp-for="FirstName">@_localization.Getkey("Name").Value</label>
                 </div>
                 <div class="col-md-9">
                     <input class="form-control" asp-for="FirstName" />
@@ -19,7 +19,7 @@
             </div>
         <div class="row mb-2">
                 <div class="col-md-3">
-                    <label class="col-form-label" asp-for="LastName">Soyad</label>
+                    <label class="col-form-label" asp-for="LastName">@_localization.Getkey("Last Name").Value</label>
                 </div>
                 <div class="col-md-9">
                     <input class="form-control" asp-for="LastName" />
@@ -30,7 +30,7 @@
 
             <div class="row mb-2">
                 <div class="col-md-3">
-                    <label class="col-form-label" asp-for="UserName">Kullanıcı Adı</label>
+                    <label class="col-form-label" asp-for="UserName">@_localization.Getkey("Username").Value</label>
                 </div>
                 <div class="col-md-9">
                     <input class="form-control" asp-for="UserName" />
@@ -43,7 +43,7 @@
         <div class="col-md-6">
                 <div class="row mb-2">
                     <div class="col-md-3">
-                        <label class="col-form-label" asp-for="Email">Email</label>
+                    <label class="col-form-label" asp-for="Email">@_localization.Getkey("Email").Value</label>
                     </div>
                     <div class="col-md-9">
                         <input class="form-control" asp-for="Email" />
@@ -53,7 +53,7 @@
 
                 <div class="row mb-2">
                     <div class="col-md-3">
-                        <label class="col-form-label" asp-for="Password">Şifre</label>
+                    <label class="col-form-label" asp-for="Password">@_localization.Getkey("Password").Value</label>
                     </div>
                     <div class="col-md-9">
                         <input class="form-control" asp-for="Password" />
@@ -63,7 +63,7 @@
 
                 <div class="row mb-2">
                     <div class="col-md-3">
-                        <label class="col-form-label" asp-for="RePassword">Şifre Tekrar</label>
+                    <label class="col-form-label" asp-for="RePassword">@_localization.Getkey("Re-enter Password").Value</label>
                     </div>
                     <div class="col-md-9">
                         <input class="form-control" asp-for="RePassword" />
@@ -73,7 +73,7 @@
                 <div class="row mt-3">
                     <div class="col-10"></div>
                     <div class="col-2">
-                        <button class="btn btn-primary btn-md" type="submit">Kayıt Ol</button>
+                    <button class="btn btn-primary btn-md" type="submit">@_localization.Getkey("Register").Value</button>
                     </div>
                 </div>
 

@@ -1,0 +1,50 @@
+﻿@using FlightTicket.Core;
+@using Newtonsoft.Json;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FlightTicket.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/FlightTicket.Web.styles.css" asp-append-version="true" />
+    @await RenderSectionAsync("FontAwesomeCDN", required: false)
+    @await RenderSectionAsync("DataTableCssCDN", required: false)
+</head>
+<body>
+    <header>
+        @await Html.PartialAsync("_Navbar")
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @if (TempData["Message"] != null)
+            {
+                AlertMessage message = JsonConvert.DeserializeObject<AlertMessage>(TempData["Message"] as string);
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-@message.AlertType alert-dismissible fade show" role="alert">
+                            <div>@message.Title</div>
+                            <div>@message.Message</div>
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                        </div>
+                    </div>
+                </div>
+            }
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container text-center">
+            &copy; 2023 - FlightTicket.Web - @_localization.Getkey("All Rights Reserved").Value
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("PopperCDN", required: false)
+    @await RenderSectionAsync("DataTableScriptCDN", required: false)
+</body>
+</html>

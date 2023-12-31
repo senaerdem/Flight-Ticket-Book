@@ -2,16 +2,16 @@
 
 <div class="d-flex justify-content-between align-items-center">
     <div class="display-6 text-primary ms-2 text-center">
-        Kullanıcı Düzenle <strong>@Model.UserName</strong>'s Roles
+        @_localization.Getkey("Edit User Details").Value <strong>@Model.UserName</strong>@_localization.Getkey("'s Roles").Value
     </div>
     <div>
-        <a asp-controller="Admin" asp-action="UserList" class="btn btn-primary">Kullanıcı Listesine Geri Dön</a>
+        <a asp-controller="Admin" asp-action="UserList" class="btn btn-primary">@_localization.Getkey("Go Back To User List").Value</a>
     </div>
 </div>
 <hr />
 <form asp-controller="Admin" asp-action="EditUserRoles" method="post">
     <input type="hidden" asp-for="UserId" value=@Model.UserId />
-    <h5 class="my-3">Kullanıcı rollerini düzenlemek için lütfen aşağıdaki rol seçimini güncelleyin.</h5>
+    <h5 class="my-3">@_localization.Getkey("To Edit User Roles, Please Update the role selection below").Value</h5>
     <div class="row">
         <div class="col-md-4">
             @foreach (var role in ViewBag.Roles)
@@ -31,7 +31,7 @@
             }
             <strong><span asp-validation-for="SelectedRoles" class="text-danger"></span></strong>
             <div class="mt-4 text-end">
-                <button type="submit" class="btn btn-primary">Rolü Güncelle</button>
+                <button type="submit" class="btn btn-primary">@_localization.Getkey("Update Roles").Value</button>
             </div>
         </div>
         <div class="col-md-8"></div>

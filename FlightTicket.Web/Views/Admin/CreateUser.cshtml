@@ -1,7 +1,7 @@
 ﻿@model CreateUserModel
 
 <div class="display-6 text-primary ms-2 text-center">
-    Kullanıcı Oluştur
+    @_localization.Getkey("Create User").Value
 </div>
 <hr>
 
@@ -10,7 +10,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="offset-3 col">
-                    <p class="fs-5 text-primary mb-2">Kullanıcı Bilgileri Giriniz</p>
+                    <p class="fs-5 text-primary mb-2">@_localization.Getkey("Please Enter User Details").Value</p>
                 </div>
             </div>
             <div class="row mb-2">
@@ -76,7 +76,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="offset-3 col-6">
-                    <p class="fs-5 text-primary mb-1">Please Select Roles For User</p>
+                    <p class="fs-5 text-primary mb-1">@_localization.Getkey("Please Select Roles For User").Value</p>
             <strong><span asp-validation-for="SelectedRoles" class="text-danger"></span></strong>
                 </div>
             </div>
@@ -101,7 +101,7 @@
     <div class="row mt-3">
         <div class="col-10"></div>
         <div class="col-2">
-            <button class="btn btn-primary btn-md" type="submit">Kullanıcı Oluştur</button>
+            <button class="btn btn-primary btn-md" type="submit">@_localization.Getkey("Create User").Value</button>
         </div>
     </div>
 </form>

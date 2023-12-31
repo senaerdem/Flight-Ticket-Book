@@ -10,10 +10,10 @@
 
     <div class="d-flex justify-content-between align-items-center">
         <div class="display-6 text-primary ms-2 text-center">
-            User List
+            @_localization.Getkey("User List").Value
         </div>
         <div>
-            <a asp-controller="Admin" asp-action="CreateUser" class="btn btn-primary">Kullanıcı Oluştur</a>
+        <a asp-controller="Admin" asp-action="CreateUser" class="btn btn-primary">@_localization.Getkey("Create User").Value</a>
         </div>
     </div>
     <hr>
@@ -21,12 +21,12 @@
     <table id="userTable_id" class="display">
         <thead>
             <tr>
-                <th>Ad</th>
-                <th>Soyad</th>
-                <th>Kullanıcı Adı</th>
-                <th>Email</th>
-                <th>Rol</th>
-                <th>Hareketler</th>
+            <th>@_localization.Getkey("First Name").Value</th>
+                <th>@_localization.Getkey("Last Name").Value</th>
+                <th>@_localization.Getkey("Username").Value</th>
+                <th>@_localization.Getkey("Email").Value</th>
+                <th>@_localization.Getkey("Roles").Value</th>
+                <th>@_localization.Getkey("Actions").Value</th>
             </tr>
         </thead>
         <tbody>
@@ -46,9 +46,9 @@
 
                 <td>
                     <div>
-                        <a class="btn btn-sm btn-outline-warning" asp-controller="Admin" asp-action="EditUserRoles" asp-route-id=@user.UserId>Edit User Role</a>
-                        <a class="btn btn-sm btn-outline-secondary" asp-controller="Admin" asp-action="EditUserDetails" asp-route-id=@user.UserId>Edit User Details</a>
-                        <a class="btn btn-sm btn-outline-danger" asp-controller="Admin" asp-action="DeleteUser" asp-route-id=@user.UserId>Delete</a>
+                        <a class="btn btn-sm btn-outline-warning" asp-controller="Admin" asp-action="EditUserRoles" asp-route-id=@user.UserId>@_localization.Getkey("Edit User Role").Value</a>
+                        <a class="btn btn-sm btn-outline-secondary" asp-controller="Admin" asp-action="EditUserDetails" asp-route-id=@user.UserId>@_localization.Getkey("Edit User Details").Value</a>
+                        <a class="btn btn-sm btn-outline-danger" asp-controller="Admin" asp-action="DeleteUser" asp-route-id=@user.UserId>@_localization.Getkey("Delete").Value</a>
                     </div>
                 </td>
 

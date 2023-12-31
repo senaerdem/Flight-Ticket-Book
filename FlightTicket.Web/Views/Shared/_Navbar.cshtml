@@ -1,0 +1,93 @@
+﻿<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img width=140 src="~/images/pegasus_logo.png" /></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar d-sm-flex flex-row-reverse">
+            <ul class="navbar-nav flex-grow-1">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            @_localization.Getkey("Hello").Value @User.Identity.Name!
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <li><a class="dropdown-item" asp-controller="Admin" asp-action="RoleList">@_localization.Getkey("Role List").Value</a></li>
+                                <li><a class="dropdown-item" asp-controller="Admin" asp-action="UserList">@_localization.Getkey("User List").Value</a></li>
+                            }
+                            @if (User.IsInRole("Customer"))
+                            {
+                                <li><a class="dropdown-item" asp-controller="FlightTicket" asp-action="DisplayUserTickets">@_localization.Getkey("Display Tickets").Value</a></li>
+                            }
+                            @if (User.IsInRole("Operator"))
+                            {
+                                <li><a class="dropdown-item" asp-controller="Operator" asp-action="LineList">@_localization.Getkey("Line List").Value</a></li>
+                                <li><a class="dropdown-item" asp-controller="Operator" asp-action="FlightList">@_localization.Getkey("Flight List").Value</a></li>
+                            }
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" asp-controller="Account" asp-action="ChangePassword">@_localization.Getkey("Change Password").Value</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <div class="dropdown">
+                            <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+                                @_localization.Getkey("Languages").Value
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="en-US" class="dropdown-item">
+                                        <i class="flag-icon flag-icon-gb"></i> @_localization.Getkey("English").Value
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="tr-TR" class="dropdown-item">
+                                        <i class="flag-icon flag-icon-gb"></i> @_localization.Getkey("Turkish").Value
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+
+
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">@_localization.Getkey("Logout").Value</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">@_localization.Getkey("Register").Value</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">@_localization.Getkey("Login").Value</a>
+                    </li>
+                    <li>
+                        <div class="dropdown">
+                            <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+                                @_localization.Getkey("Languages").Value
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="en-US" class="dropdown-item">
+                                        <i class="flag-icon flag-icon-gb"></i> @_localization.Getkey("English").Value
+                                    </a>
+                                </li>
+                                <li>
+                                    <a asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="tr-TR" class="dropdown-item">
+                                        <i class="flag-icon flag-icon-gb"></i> @_localization.Getkey("Turkish").Value
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+
+                }
+            </ul>
+        </div>
+    </div>
+</nav>

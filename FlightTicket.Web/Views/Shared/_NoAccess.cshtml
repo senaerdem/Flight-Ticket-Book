@@ -1,0 +1,15 @@
+﻿@if (User.IsInRole("Operator"))
+{
+<div class="alert alert-danger text-center fs-5" role="alert">
+        @_localization.Getkey("Operator is not allowed to buy a ticket.").Value
+</div>
+}
+
+
+@if (User.IsInRole("Admin"))
+{
+<div class="alert alert-danger text-center fs-5" role="alert">
+        @_localization.Getkey("Admin is not allowed to buy a ticket.").Value
+</div>
+    
+}

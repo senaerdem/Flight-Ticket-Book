@@ -1,7 +1,7 @@
 ﻿@model LoginModel
 
 <div class="display-6 text-primary ms-2">
-    Giriş Yap
+    @_localization.Getkey("Login").Value
 </div>
 <hr>
 
@@ -11,7 +11,7 @@
         <div class="col-md-6">
             <div class="row mb-2">
                 <div class="col-md-3">
-                    <label class="col-form-label" asp-for="UserName">Kullanıcı Adı</label>
+                    <label class="col-form-label" asp-for="UserName">@_localization.Getkey("Username").Value</label>
                 </div>
                 <div class="col-md-9">
                     <input class="form-control" asp-for="UserName" />
@@ -19,7 +19,7 @@
             </div>
             <div class="row mb-2">
                 <div class="col-md-3">
-                    <label class="col-form-label" asp-for="Password">Şifre</label>
+                    <label class="col-form-label" asp-for="Password">@_localization.Getkey("Password").Value</label>
                 </div>
                 <div class="col-md-9">
                     <input class="form-control" asp-for="Password" />
@@ -30,12 +30,13 @@
                 <div class="offset-3 col-7 d-flex align-items-center">
                     <div class="form-check">
                         <input class="form-check-input" type="checkbox" asp-for="IsPersistent">
-                        <label class="form-check-label" asp-for="IsPersistent"> Beni Hatırla
+                        <label class="form-check-label" asp-for="IsPersistent">
+                            @_localization.Getkey("Remember Me").Value
                         </label>
                     </div>
                 </div>
                 <div class="col-2">
-                    <button class="btn btn-primary btn-md" type="submit">Giriş Yap</button>
+                    <button class="btn btn-primary btn-md" type="submit">@_localization.Getkey("Log In").Value</button>
                 </div>
             </div>
             
