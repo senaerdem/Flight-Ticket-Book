@@ -11,15 +11,15 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlightTicket.Data.Migrations
 {
     [DbContext(typeof(Context_FlightTicket))]
-    [Migration("20221030082301_EntityUpdate")]
-    partial class EntityUpdate
+    [Migration("FirstInitial")]
+    partial class FirstInitial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "6.0.10");
 
-            modelBuilder.Entity("FlightTicket.Entity.Bus", b =>
+            modelBuilder.Entity("FlightTicket.Entity.Flight", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -39,7 +39,7 @@ namespace FlightTicket.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Buses");
+                    b.ToTable("Flightes");
 
                     b.HasData(
                         new
@@ -256,9 +256,6 @@ namespace FlightTicket.Data.Migrations
                     b.Property<int>("LineId")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("MidLineOrder")
-                        .HasColumnType("INTEGER");
-
                     b.Property<string>("StartingPoint")
                         .HasColumnType("TEXT");
 
@@ -274,7 +271,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 1,
                             Destination = "Gebze",
                             LineId = 1,
-                            MidLineOrder = 1,
                             StartingPoint = "İstanbul"
                         },
                         new
@@ -282,7 +278,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 2,
                             Destination = "Sakarya",
                             LineId = 1,
-                            MidLineOrder = 2,
                             StartingPoint = "Gebze"
                         },
                         new
@@ -290,7 +285,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 3,
                             Destination = "Ankara",
                             LineId = 1,
-                            MidLineOrder = 3,
                             StartingPoint = "Sakarya"
                         },
                         new
@@ -298,7 +292,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 4,
                             Destination = "Adana",
                             LineId = 1,
-                            MidLineOrder = 4,
                             StartingPoint = "Ankara"
                         },
                         new
@@ -306,7 +299,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 5,
                             Destination = "Trabzon",
                             LineId = 2,
-                            MidLineOrder = 1,
                             StartingPoint = "Rize"
                         },
                         new
@@ -314,7 +306,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 6,
                             Destination = "Erzincan",
                             LineId = 2,
-                            MidLineOrder = 2,
                             StartingPoint = "Trabzon"
                         },
                         new
@@ -322,7 +313,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 7,
                             Destination = "Sivas",
                             LineId = 2,
-                            MidLineOrder = 3,
                             StartingPoint = "Erzincan"
                         },
                         new
@@ -330,7 +320,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 8,
                             Destination = "Gaziantep",
                             LineId = 2,
-                            MidLineOrder = 4,
                             StartingPoint = "Sivas"
                         },
                         new
@@ -338,7 +327,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 9,
                             Destination = "Hatay",
                             LineId = 2,
-                            MidLineOrder = 5,
                             StartingPoint = "Gaziantep"
                         },
                         new
@@ -346,7 +334,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 10,
                             Destination = "Kastamonu",
                             LineId = 3,
-                            MidLineOrder = 1,
                             StartingPoint = "Sinop"
                         },
                         new
@@ -354,7 +341,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 11,
                             Destination = "Karabük",
                             LineId = 3,
-                            MidLineOrder = 2,
                             StartingPoint = "Kastamonu"
                         },
                         new
@@ -362,7 +348,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 12,
                             Destination = "Afyon",
                             LineId = 3,
-                            MidLineOrder = 3,
                             StartingPoint = "Karabük"
                         },
                         new
@@ -370,7 +355,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 13,
                             Destination = "Burdur",
                             LineId = 3,
-                            MidLineOrder = 4,
                             StartingPoint = "Afyon"
                         },
                         new
@@ -378,7 +362,6 @@ namespace FlightTicket.Data.Migrations
                             Id = 14,
                             Destination = "Antalya",
                             LineId = 3,
-                            MidLineOrder = 5,
                             StartingPoint = "Burdur"
                         });
                 });
@@ -604,7 +587,7 @@ namespace FlightTicket.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("BusId")
+                    b.Property<int>("FlightId")
                         .HasColumnType("INTEGER");
 
                     b.Property<int?>("CompanyId")
@@ -615,7 +598,7 @@ namespace FlightTicket.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BusId");
+                    b.HasIndex("FlightId");
 
                     b.HasIndex("CompanyId");
 
@@ -627,19 +610,19 @@ namespace FlightTicket.Data.Migrations
                         new
                         {
                             Id = 1,
-                            BusId = 1,
+                            FlightId = 1,
                             DriverId = 1
                         },
                         new
                         {
                             Id = 2,
-                            BusId = 1,
+                            FlightId = 1,
                             DriverId = 1
                         },
                         new
                         {
                             Id = 3,
-                            BusId = 1,
+                            FlightId = 1,
                             DriverId = 1
                         });
                 });
@@ -695,9 +678,9 @@ namespace FlightTicket.Data.Migrations
 
             modelBuilder.Entity("FlightTicket.Entity.TripDetail", b =>
                 {
-                    b.HasOne("FlightTicket.Entity.Bus", "Bus")
+                    b.HasOne("FlightTicket.Entity.Flight", "Flight")
                         .WithMany("TripDetails")
-                        .HasForeignKey("BusId")
+                        .HasForeignKey("FlightId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -711,14 +694,14 @@ namespace FlightTicket.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Bus");
+                    b.Navigation("Flight");
 
                     b.Navigation("Company");
 
                     b.Navigation("Driver");
                 });
 
-            modelBuilder.Entity("FlightTicket.Entity.Bus", b =>
+            modelBuilder.Entity("FlightTicket.Entity.Flight", b =>
                 {
                     b.Navigation("TripDetails");
                 });

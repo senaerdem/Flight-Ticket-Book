@@ -116,11 +116,11 @@
                 </div>
                 <div class="row my-2">
                     <div class="col-md-3 d-flex align-items-center">
-                        <p class="m-0">Flight</p>
+                        <p class="m-0">Plane</p>
                     </div>
                     <div class="col-md-9">
                         <select class="form-select" id="flightSelect" asp-for="FlightId">
-                            <option selected disabled hidden>Please select a flight</option>
+                            <option selected disabled hidden>Please select a plane</option>
                             @foreach (var flight in Model.Flightes)
                             {
                                 <option value=@flight.Id>@flight.Id</option>
@@ -169,11 +169,11 @@
                 }
                 <div class="row my-2">
                     <div class="col-md-3 d-flex align-items-center">
-                        <p class="m-0">Driver</p>
+                        <p class="m-0">Pilot</p>
                     </div>
                     <div class="col-md-9">
                         <select class="form-select" id="driverSelect" asp-for="DriverId">
-                            <option selected disabled hidden>Please select a driver</option>
+                            <option selected disabled hidden>Please select a pilot</option>
                             @foreach (var driver in Model.Drivers)
                             {
                                 <option value=@driver.Id>@driver.Name</option>

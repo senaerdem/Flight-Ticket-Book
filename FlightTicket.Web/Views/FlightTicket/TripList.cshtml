@@ -57,21 +57,21 @@
                     <div class="text-primary d-flex justify-content-center fs-5">
                             @if (cTM.CombinedTrips.First().TripDetail.Flight.HasWifi)
                             {
-                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Wifi" data-bs-placement="bottom">
-                                    <i class="fa-solid fa-wifi"></i>
+                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Free Baggage" data-bs-placement="bottom">
+                                    <img src="/images/free_baggage.png" alt="Free Baggage" style="width: 24px; height: 24px;">
                                 </div>
 
                             }
                             @if (cTM.CombinedTrips.First().TripDetail.Flight.HasUSB)
                             {
-                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Power" data-bs-placement="bottom">
-                                    <i class="fa-solid fa-plug"></i>
+                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Fun Package" data-bs-placement="bottom">
+                                    <img src="/images/fun_package.png" alt="Fun Package" style="width: 24px; height: 24px;">
                                 </div>
                             }
                             @if (cTM.CombinedTrips.First().TripDetail.Flight.HasSeatScreen)
                             {
-                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Seat Screen" data-bs-placement="bottom">
-                                    <i class="fa-solid fa-tablet-screen-button"></i>
+                                <div class="ps-2 pe-2" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-content="Has Sandwich" data-bs-placement="bottom">
+                                    <img src="/images/sandwich.png" alt="Sandwich" style="width: 24px; height: 24px;">
                                 </div>
                             }
                         </div>

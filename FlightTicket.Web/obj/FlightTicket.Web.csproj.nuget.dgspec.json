@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\FlightTicket.Web.csproj": {}
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/FlightTicket.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\FlightTicket.Business.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/FlightTicket.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\FlightTicket.Business.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/FlightTicket.Business.csproj",
         "projectName": "FlightTicket.Business",
-        "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\FlightTicket.Business.csproj",
-        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\obj\\",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/FlightTicket.Business.csproj",
+        "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\FlightTicket.Data.csproj": {
-                "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\FlightTicket.Data.csproj"
+              "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj": {
+                "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj"
               },
-              "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj": {
-                "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj"
+              "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj": {
+                "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj"
               }
             }
           }
@@ -52,8 +50,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -62,28 +59,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
         "projectName": "FlightTicket.Core",
-        "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj",
-        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\obj\\",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
+        "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,8 +108,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -123,36 +117,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\FlightTicket.Data.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\FlightTicket.Data.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj",
         "projectName": "FlightTicket.Data",
-        "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\FlightTicket.Data.csproj",
-        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Data\\obj\\",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj",
+        "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj": {
-                "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj"
+              "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj": {
+                "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj"
               }
             }
           }
@@ -188,8 +180,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -198,28 +189,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj",
         "projectName": "FlightTicket.Entity",
-        "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\FlightTicket.Entity.csproj",
-        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Entity\\obj\\",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj",
+        "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -243,8 +232,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -253,39 +241,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\FlightTicket.Web.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/FlightTicket.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\FlightTicket.Web.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/FlightTicket.Web.csproj",
         "projectName": "FlightTicket.Web",
-        "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\FlightTicket.Web.csproj",
-        "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\obj\\",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/FlightTicket.Web.csproj",
+        "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\FlightTicket.Business.csproj": {
-                "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Business\\FlightTicket.Business.csproj"
+              "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/FlightTicket.Business.csproj": {
+                "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Business/FlightTicket.Business.csproj"
               },
-              "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj": {
-                "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj"
+              "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj": {
+                "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj"
               }
             }
           }
@@ -321,8 +307,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -334,7 +319,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
         }
       }
     }

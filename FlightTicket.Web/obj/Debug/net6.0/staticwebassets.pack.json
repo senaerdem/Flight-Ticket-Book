@@ -17,10 +17,6 @@
       "PackagePath": "staticwebassets\\images\\Home-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\Home-bg.png",
-      "PackagePath": "staticwebassets\\images\\Home-bg.png"
-    },
-    {
       "Id": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Web\\wwwroot\\images\\flightSeat.png",
       "PackagePath": "staticwebassets\\images\\flightSeat.png"
     },

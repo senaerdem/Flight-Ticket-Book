@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QNnqlMpFn+ExerOdaifoEf89z2xNlSJzReP/RKck5PNYLomTaVO9lsVPBqlra1iBtIPKYyWsf2jSttSBwOLitw==",
+  "dgSpecHash": "f938bGxZ0ZYFUZ+SZAU+6LXC3u3TIEYghc9QXmO7tH65wERwNCmsU2ljWf1rQQfm9um+3lIGjyQ7SvxVoOPeyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj",
+  "projectFilePath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\serif\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/Users/senanurerdem/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

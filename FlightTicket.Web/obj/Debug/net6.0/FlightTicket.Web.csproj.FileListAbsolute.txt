@@ -1,247 +1,326 @@
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.AssemblyReference.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfoInputs.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfo.cs
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CoreCompileInputs.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cs
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.sourcelink.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\appsettings.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.staticwebassets.runtime.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.exe
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.deps.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.runtimeconfig.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Humanizer.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Iyzipay.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.FlightTicket.Web.props
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FlightTicket.Web.props
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FlightTicket.Web.props
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\bundle\FlightTicket.Web.styles.css
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\projectbundle\FlightTicket.Web.bundle.scp.css
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CopyComplete
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\refint\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.genruntimeconfig.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\ref\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.AssemblyReference.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfoInputs.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfo.cs
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CoreCompileInputs.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cache
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cs
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.sourcelink.json
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\refint\FlightTicket.Web.dll
-C:\Users\serif\Desktop\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\appsettings.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.staticwebassets.runtime.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.exe
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.deps.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.runtimeconfig.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Humanizer.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Iyzipay.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.AssemblyReference.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfoInputs.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfo.cs
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CoreCompileInputs.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cs
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.sourcelink.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.FlightTicket.Web.props
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FlightTicket.Web.props
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FlightTicket.Web.props
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\bundle\FlightTicket.Web.styles.css
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\scopedcss\projectbundle\FlightTicket.Web.bundle.scp.css
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CopyComplete
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\refint\FlightTicket.Web.dll
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.genruntimeconfig.cache
-C:\Users\serif\Desktop\bok\FlightTicket - Kopya - Kopya\FlightTicket\FlightTicket.Web\obj\Debug\net6.0\ref\FlightTicket.Web.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\appsettings.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.staticwebassets.runtime.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.exe
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.deps.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.runtimeconfig.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Humanizer.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Iyzipay.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Business.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Core.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Data.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\FlightTicket.Entity.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.AssemblyReference.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfoInputs.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.AssemblyInfo.cs
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CoreCompileInputs.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.RazorAssemblyInfo.cs
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.sourcelink.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.FlightTicket.Web.props
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FlightTicket.Web.props
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FlightTicket.Web.props
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\scopedcss\bundle\FlightTicket.Web.styles.css
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\scopedcss\projectbundle\FlightTicket.Web.bundle.scp.css
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.CopyComplete
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\refint\FlightTicket.Web.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.pdb
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.genruntimeconfig.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\ref\FlightTicket.Web.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\en-US\FlightTicket.Web.resources.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\bin\Debug\net6.0\tr-TR\FlightTicket.Web.resources.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.Resources.SharedResource.en-US.resources
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.Resources.SharedResource.tr-TR.resources
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\FlightTicket.Web.csproj.GenerateResource.cache
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\en-US\FlightTicket.Web.resources.dll
-C:\Users\serif\Desktop\WebProgramlamaProjeMVC\FlightTicket.Web\obj\Debug\net6.0\tr-TR\FlightTicket.Web.resources.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.AssemblyReference.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfoInputs.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfo.cs
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CoreCompileInputs.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cs
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.sourcelink.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.staticwebassets.runtime.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.exe
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.deps.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.runtimeconfig.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Iyzipay.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.FlightTicket.Web.props
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FlightTicket.Web.props
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FlightTicket.Web.props
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/bundle/FlightTicket.Web.styles.css
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/projectbundle/FlightTicket.Web.bundle.scp.css
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CopyComplete
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/refint/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.genruntimeconfig.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/ref/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.AssemblyReference.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfoInputs.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfo.cs
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CoreCompileInputs.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cache
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cs
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.sourcelink.json
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/refint/FlightTicket.Web.dll
+C:/Users/serif/Desktop/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.staticwebassets.runtime.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.exe
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.deps.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.runtimeconfig.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Iyzipay.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.AssemblyReference.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfoInputs.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfo.cs
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CoreCompileInputs.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cs
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.sourcelink.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.FlightTicket.Web.props
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FlightTicket.Web.props
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FlightTicket.Web.props
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/bundle/FlightTicket.Web.styles.css
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/scopedcss/projectbundle/FlightTicket.Web.bundle.scp.css
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CopyComplete
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/refint/FlightTicket.Web.dll
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.genruntimeconfig.cache
+C:/Users/serif/Desktop/bok/FlightTicket - Kopya - Kopya/FlightTicket/FlightTicket.Web/obj/Debug/net6.0/ref/FlightTicket.Web.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.staticwebassets.runtime.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.exe
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.deps.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.runtimeconfig.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Iyzipay.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.AssemblyReference.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfoInputs.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfo.cs
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CoreCompileInputs.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cs
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.sourcelink.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.FlightTicket.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.FlightTicket.Web.props
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FlightTicket.Web.props
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FlightTicket.Web.props
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/scopedcss/bundle/FlightTicket.Web.styles.css
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/scopedcss/projectbundle/FlightTicket.Web.bundle.scp.css
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CopyComplete
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/refint/FlightTicket.Web.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.pdb
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.genruntimeconfig.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/ref/FlightTicket.Web.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/en-US/FlightTicket.Web.resources.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/bin/Debug/net6.0/tr-TR/FlightTicket.Web.resources.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.Resources.SharedResource.en-US.resources
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.Resources.SharedResource.tr-TR.resources
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.GenerateResource.cache
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/en-US/FlightTicket.Web.resources.dll
+C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/obj/Debug/net6.0/tr-TR/FlightTicket.Web.resources.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/appsettings.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.staticwebassets.runtime.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.deps.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.runtimeconfig.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/ref/FlightTicket.Web.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Web.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/en-US/FlightTicket.Web.resources.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/tr-TR/FlightTicket.Web.resources.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Humanizer.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Iyzipay.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Business.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Core.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Data.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/bin/Debug/net6.0/FlightTicket.Entity.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.AssemblyReference.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.Resources.SharedResource.en-US.resources
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.Resources.SharedResource.tr-TR.resources
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.GenerateResource.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfoInputs.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.AssemblyInfo.cs
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CoreCompileInputs.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.RazorAssemblyInfo.cs
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/en-US/FlightTicket.Web.resources.cs
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/en-US/FlightTicket.Web.resources.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/tr-TR/FlightTicket.Web.resources.cs
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/tr-TR/FlightTicket.Web.resources.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/scopedcss/bundle/FlightTicket.Web.styles.css
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/scopedcss/projectbundle/FlightTicket.Web.bundle.scp.css
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.csproj.CopyComplete
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/ref/FlightTicket.Web.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/obj/Debug/net6.0/FlightTicket.Web.genruntimeconfig.cache

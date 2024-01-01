@@ -52,26 +52,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\serif\\.nuget\\packages\\": {}
+    "/Users/senanurerdem/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj",
+      "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
       "projectName": "FlightTicket.Core",
-      "projectPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\FlightTicket.Core.csproj",
-      "packagesPath": "C:\\Users\\serif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serif\\Desktop\\WebProgramlamaProjeMVC\\FlightTicket.Core\\obj\\",
+      "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
+      "packagesPath": "/Users/senanurerdem/.nuget/packages/",
+      "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\serif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -101,8 +99,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -111,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
       }
     }
   }

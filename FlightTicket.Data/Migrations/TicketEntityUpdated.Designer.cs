@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlightTicket.Data.Migrations
 {
     [DbContext(typeof(Context_FlightTicket))]
-    [Migration("20221208171218_TicketEntityUpdated")]
+    [Migration("TicketEntityUpdated")]
     partial class TicketEntityUpdated
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -11,13 +11,13 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlightTicket.Data.Migrations
 {
     [DbContext(typeof(Context_FlightTicket))]
-    [Migration("20221104132334_EntityUpdateTicket")]
-    partial class EntityUpdateTicket
+    [Migration("CustomerEntityUpdate")]
+    partial class CustomerEntityUpdate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "6.0.10");
+            modelBuilder.HasAnnotation("ProductVersion", "6.0.11");
 
             modelBuilder.Entity("FlightTicket.Entity.Bus", b =>
                 {
@@ -121,6 +121,9 @@ namespace FlightTicket.Data.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("LName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("UserName")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
