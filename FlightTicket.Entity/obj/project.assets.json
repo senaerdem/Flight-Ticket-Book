@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj",
+      "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/FlightTicket.Entity.csproj",
       "projectName": "FlightTicket.Entity",
-      "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj",
+      "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/FlightTicket.Entity.csproj",
       "packagesPath": "/Users/senanurerdem/.nuget/packages/",
-      "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/obj/",
+      "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"

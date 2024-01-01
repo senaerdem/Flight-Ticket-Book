@@ -58,3 +58,15 @@ C:/Users/serif/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6
 /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.dll
 /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/obj/Debug/net6.0/ref/FlightTicket.Entity.dll
 /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/bin/Debug/net6.0/FlightTicket.Entity.deps.json
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/bin/Debug/net6.0/FlightTicket.Entity.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/bin/Debug/net6.0/ref/FlightTicket.Entity.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/bin/Debug/net6.0/FlightTicket.Entity.pdb
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.csproj.AssemblyReference.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.AssemblyInfoInputs.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.AssemblyInfo.cs
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.csproj.CoreCompileInputs.cache
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/ref/FlightTicket.Entity.dll
+/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/obj/Debug/net6.0/FlightTicket.Entity.pdb

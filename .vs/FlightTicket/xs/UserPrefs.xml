@@ -9,10 +9,16 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FlightTicket" selected="True" />
+          <Node name="FlightTicket" expanded="True">
+            <Node name="FlightTicket.Web" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FlightTicket.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.FlightTicket.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

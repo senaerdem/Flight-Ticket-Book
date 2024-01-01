@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MOAB9qT3pZwOI4YnpKHmWjWxhzPTDtR1Wa3/L6GgGybUBVaRY0QnRbNR10F+njL7ybgFJBs2A51YWmkxa9veIQ==",
+  "dgSpecHash": "ExTJD30/8rNTixRNz+AXCry+9jABiaFZ7zKrvzO9LDvTdJmJ6CibsbD3MTZDGI5lixI0ZtftfJt6VRheNhiHPA==",
   "success": true,
-  "projectFilePath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj",
+  "projectFilePath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/FlightTicket.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

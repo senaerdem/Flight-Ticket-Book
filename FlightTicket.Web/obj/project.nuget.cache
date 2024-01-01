@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLHAiA9BN97y4DhILm4RJEf2DsLpMC8eX0h6LNc2bWSTl6FFB2IHTAQLoFv789vU9D85lkTWfeILd3UTVy1RNw==",
+  "dgSpecHash": "wj3IrbKxUQ7FOUJbIKQR+iJdAHwBA24qMOtFELxY03/hrFiR75Tw5chLbJKloEu4IfTlJfXLZQ1dnN8AHQ55Gg==",
   "success": true,
-  "projectFilePath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/FlightTicket.Web.csproj",
+  "projectFilePath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/FlightTicket.Web.csproj",
   "expectedPackageFiles": [
     "/Users/senanurerdem/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/senanurerdem/.nuget/packages/iyzipay/2.1.46/iyzipay.2.1.46.nupkg.sha512",

@@ -1416,11 +1416,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj",
+      "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Data/FlightTicket.Data.csproj",
       "projectName": "FlightTicket.Data",
-      "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/FlightTicket.Data.csproj",
+      "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Data/FlightTicket.Data.csproj",
       "packagesPath": "/Users/senanurerdem/.nuget/packages/",
-      "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Data/obj/",
+      "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
@@ -1435,8 +1435,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj": {
-              "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Entity/FlightTicket.Entity.csproj"
+            "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/FlightTicket.Entity.csproj": {
+              "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Entity/FlightTicket.Entity.csproj"
             }
           }
         }

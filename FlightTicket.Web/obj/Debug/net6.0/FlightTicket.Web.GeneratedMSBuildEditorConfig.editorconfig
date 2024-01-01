@@ -8,149 +8,149 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FlightTicket.Web
 build_property.RootNamespace = FlightTicket.Web
-build_property.ProjectDir = /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/
+build_property.ProjectDir = /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web
+build_property.MSBuildProjectDirectory = /Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Account/ChangePassword.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Account/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Account/Login.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Account/Register.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/CreateRole.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/CreateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlUm9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/CreateUser.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/CreateUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ3JlYXRlVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/EditUserDetails.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/EditUserDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdFVzZXJEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/EditUserRoles.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/EditUserRoles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdFVzZXJSb2xlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/RoleList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/RoleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUm9sZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Admin/UserList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Admin/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/FlightTicket/DisplayTicket.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/FlightTicket/DisplayTicket.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxpZ2h0VGlja2V0L0Rpc3BsYXlUaWNrZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/FlightTicket/DisplayUserTickets.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/FlightTicket/DisplayUserTickets.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxpZ2h0VGlja2V0L0Rpc3BsYXlVc2VyVGlja2V0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/FlightTicket/PassangerDetails.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/FlightTicket/PassangerDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxpZ2h0VGlja2V0L1Bhc3NhbmdlckRldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/FlightTicket/SeatSelection.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/FlightTicket/SeatSelection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxpZ2h0VGlja2V0L1NlYXRTZWxlY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/FlightTicket/TripList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/FlightTicket/TripList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmxpZ2h0VGlja2V0L1RyaXBMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Home/Index.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/CreateFlight.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/CreateFlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvQ3JlYXRlRmxpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/CreateLine.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/CreateLine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvQ3JlYXRlTGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/FlightList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/FlightList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvRmxpZ2h0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/LineDetails.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/LineDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvTGluZURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/LineList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/LineList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvTGluZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/TripList.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/TripList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvVHJpcExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/UpdateFlight.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/UpdateFlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvVXBkYXRlRmxpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Operator/UpdateLine.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Operator/UpdateLine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmF0b3IvVXBkYXRlTGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/Error.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_DataTableCssCDNPartial.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_DataTableCssCDNPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EYXRhVGFibGVDc3NDRE5QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_DataTableScriptCDNPartial.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_DataTableScriptCDNPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19EYXRhVGFibGVTY3JpcHRDRE5QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_FontAwesomeCDNPartial.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_FontAwesomeCDNPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb250QXdlc29tZUNETlBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_Navbar.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_NoAccess.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_NoAccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob0FjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_NoTrip.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_NoTrip.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ob1RyaXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_PopperCDNPartial.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_PopperCDNPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qb3BwZXJDRE5QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/_ViewImports.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/_ViewStart.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Web/Views/Shared/_Layout.cshtml]
+[/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-58lh2hpua1

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj": {}
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Core/FlightTicket.Core.csproj": {}
   },
   "projects": {
-    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj": {
+    "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Core/FlightTicket.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
+        "projectUniqueName": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Core/FlightTicket.Core.csproj",
         "projectName": "FlightTicket.Core",
-        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/FlightTicket.Core.csproj",
+        "projectPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Core/FlightTicket.Core.csproj",
         "packagesPath": "/Users/senanurerdem/.nuget/packages/",
-        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC-1/FlightTicket.Core/obj/",
+        "outputPath": "/Users/senanurerdem/Desktop/WebProgramlamaProjeMVC/FlightTicket.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/senanurerdem/.nuget/NuGet/NuGet.Config"
